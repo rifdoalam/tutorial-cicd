@@ -1,5 +1,4 @@
-name: 
-ci
+name: Basic CI
 on:
   push:
     branches: [ main ]
